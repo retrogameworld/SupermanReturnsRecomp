@@ -1,0 +1,9 @@
+# Info-only repository: ignore everything except documentation and images (the upload tools stay local).
+*
+!*/
+!*.md
+!images/*.png
+!images/*.jpg
+!images/*.jpeg
+!.gitignore
+!.gitattributes
